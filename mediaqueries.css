@@ -81,6 +81,8 @@
      .contact-info-upper-container,
      .btn-container {
          flex-wrap: wrap;
+         justify-content: space-evenly;
+
      }
 
      .contact-info-container {
