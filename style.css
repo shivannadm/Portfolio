@@ -439,3 +439,7 @@ footer {
 footer p {
     text-align: center;
 }
+
+#live{
+    cursor:not-allowed;
+}
