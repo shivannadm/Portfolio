@@ -6,8 +6,8 @@
       <li>HTML5</li>
       <li>CSS</li>
       <li>Java Script</li>
-      <li>Web Browser: Chrome </li>
-      <li>Code Editor:Visual Studio</li>
+      <li><b>Web Browser:</b> Chrome </li>
+      <li><b>Code Editor:</b> Visual Studio</li>
     </ul>
   </body>
 </html>
