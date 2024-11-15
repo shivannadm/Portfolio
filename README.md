@@ -1,9 +1,9 @@
 # Portfolio
 <html>
   <body>
-    <p>Tools used</p>
+    <p>Technology used</p>
     <ul>
-      <li><li></li></li>
+      <li>HTML5</li>
     </ul>
   </body>
 </html>
