@@ -8,7 +8,7 @@
       <li>Java Script</li>
       <li><b>Web Browser:</b> Chrome </li>
       <li><b>Code Editor:</b> Visual Studio</li>
-      <li>Assets: images and Icon's</li>
+      <li><b>Assets:</b> images and Icon's</li>
     </ul>
   </body>
 </html>
