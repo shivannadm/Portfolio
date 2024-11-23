@@ -1,7 +1,7 @@
 # Portfolio
 <html>
   <body>
-    <p>Technology used</p>
+    <h3>Technology used</h3>
     <ul>
       <li>HTML5</li>
       <li>CSS</li>
