@@ -1,7 +1,8 @@
 # Portfolio
+##  Technology used
 <html>
   <body>
-    <h3>Technology used</h3>
+   
     <ul>
       <li>HTML5</li>
       <li>CSS3</li>
