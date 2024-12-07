@@ -2,7 +2,6 @@
 ##  Technology used
 <html>
   <body>
-   
     <ul>
       <li>HTML5</li>
       <li>CSS3</li>
